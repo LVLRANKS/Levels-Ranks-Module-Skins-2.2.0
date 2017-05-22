@@ -1,0 +1,21 @@
+﻿"Phrases"
+{
+	"Skins"
+	{
+		"en"	"Skins"
+		"ru"	"Скины"
+		"ua"	"Скины"
+	}
+	"SkinsUsual"
+	{
+		"en"	"Usual Skin"
+		"ru"	"Обычный Скин"
+		"ua"	"Звичайні Скин"
+	}
+	"AnotherTeam"
+	{
+		"en"	"{RED}[LR] {DEF}You are in the opposing team to select the skin"
+		"ru"	"{RED}[LR] {DEF}Вы находитесь в противоположной команде, чтобы выбрать скин"
+		"ua"	"{RED}[LR] {DEF}Ви перебуваєте в протилежній команді, щоб вибрати скин"
+	}
+}
